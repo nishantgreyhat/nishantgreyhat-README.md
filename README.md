@@ -1,26 +1,25 @@
-# Nishantgreyhat
+## 👋 Hello, I'm Nishant Mishra
 
-## About Me
-👋 Hi! I'm Nishant Mishra, a passionate developer focused on full-stack development and machine learning. I'm currently exploring the MERN stack and working on exciting projects to enhance my skills.
+I'm a **Full Stack Web Developer** with a passion for building efficient, scalable, and user-friendly web applications. I started my journey with frontend development and am now diving deep into backend development with the **MERN stack**. I love working on projects that challenge me to learn new things and refine my skills.
 
-- 🌱 Currently learning: Data Structures and Algorithms (DSA) in Java, Python for data cleaning, and Unreal Engine for game development.
-- 💬 Ask me about: HTML, CSS, JavaScript, Python, and web designing, Typography UI/UX Design.
-- 📫 Reach me at: nishantmishra8528@gmail.com
+### 🛠️ Skills
+- **Languages**: C, C++, JavaScript, Python
+- **Frontend**: HTML, CSS, TailwindCSS, React, EJS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Tools & Platforms**: Postman, Git, GitHub
 
-## Projects
-Here are some of my ongoing projects:
+### 🌱 Currently Learning
+- **Data Structures and Algorithms (DSA)**
+- Advanced **MERN Stack** techniques
 
-- **[Link Shortener](https://github.com/nishantgreyhat/link-shortener)** - A web-based link shortening service with a user-friendly interface.
-- **[Portfolio Website](https://github.com/nishantgreyhat/portfolio)** - My personal portfolio showcasing my skills and projects.
-- **[Vaidyavatika](https://github.com/nishantgreyhat/vaidyavatika)** - An interactive Virtual Herbal Garden project focusing on medicinal plants in the AYUSH system.
+### ⚡ Fun Fact
+I love drawing parallels between **anime** and real-world problems, especially from **One Piece**—my favorite anime!
 
-## Tech Stack
-- **Languages**: HTML, CSS, JavaScript, Python, Java
-- **Frameworks & Libraries**: React, Tailwind, Bootstrap
-- **Tools**: Git, Visual Studio Code, Unreal Engine
+Feel free to check out my repositories and projects, and let's collaborate!
 
-## GitHub Stats
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantgreyhat&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantmishra&show_icons=true&theme=radical)
+
 
 ## Get in Touch
 - LinkedIn: [Nishant Mishra](https://www.linkedin.com/in/nishantgreyhat/)
